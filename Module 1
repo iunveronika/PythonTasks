@@ -1,6 +1,4 @@
 #1
 print("Hello, Veronika Iun!")
 
-#2
-name = input("Enter your name: ")
-print("Hello, " + name + "!")
+
